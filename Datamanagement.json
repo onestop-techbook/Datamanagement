@@ -26,7 +26,7 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-      "chap-team-build.md",
+
       "placeholder.md",
       "introduction.md"
     ],
