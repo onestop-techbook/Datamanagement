@@ -27,7 +27,8 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-team-build.md",
-      "placeholder.md"
+      "placeholder.md",
+      "introduction.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
