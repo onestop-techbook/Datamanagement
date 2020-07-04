@@ -28,7 +28,8 @@
     "CHAPS": [
 
       "placeholder.md",
-      "introduction.md"
+      "introduction.md",
+      "datacategoly.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
