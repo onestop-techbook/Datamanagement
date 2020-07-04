@@ -29,7 +29,7 @@
 
       "placeholder.md",
       "introduction.md",
-      "datacategoly.md"
+      "datacategory.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
