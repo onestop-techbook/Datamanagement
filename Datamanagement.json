@@ -29,6 +29,7 @@
 
       "placeholder.md",
       "introduction.md",
+      "howtoDataBroke.md",
       "datacategory.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
