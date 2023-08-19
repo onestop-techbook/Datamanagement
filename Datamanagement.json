@@ -27,10 +27,10 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
 
-      "placeholder.md",
       "introduction.md",
       "howtoDataBroke.md",
-      "datacategory.md"
+      "datacategory.md",
+      "placeholder.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
